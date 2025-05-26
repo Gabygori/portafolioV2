@@ -38,6 +38,14 @@ const projects = [
     tags: ["Wordpress", "PHP"],
     link: "http://kioscohlala.com.ar/",
   },
+  {
+    id: 5,
+    title: "APOD",
+    description: "APOD (Astronomy Picture of the Day) es una aplicación que muestra una imagen astronómica diaria, junto con una breve explicación. Los usuarios pueden explorar imágenes pasadas y aprender sobre diferentes fenómenos astronómicos.",
+    image: "/placeholder.svg?height=400&width=600",
+    tags: ["React", "NASA API"],
+    link: "https://expo.dev/accounts/gabote08/projects/APOD/builds",
+  },
 ]
 
 export default function Projects() {
