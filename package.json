@@ -2,7 +2,7 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gabygori.github.io/portfolio",
+  "homepage": "https://Gabygori.github.io/portfolioV2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
