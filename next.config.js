@@ -1,11 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   images: {
     unoptimized: true
   },
-  basePath: '/portafolioV2',
-  assetPrefix: '/portafolioV2/',
+  output: 'export' // (opcional en Vercel, podés dejarlo o quitarlo si usás funciones de servidor)
 };
 
 module.exports = nextConfig;
